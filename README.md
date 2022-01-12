@@ -22,7 +22,11 @@ Some aspects are not supported and will be later.
 
 Your contribution (test, coding, observations, ...) is important and will help to have a better and very stable version.
 
+## Contact me
+
 Please contact me and/or pull requests for issues you encounter and also some aspects/things you wan to be integrated.
+
+I'm also available to develop applications or modules and alsocontribute to open source projects living in Africa.
 
 Name: Marc KAMGA Olivier 
 emails: 
