@@ -16,4 +16,11 @@ I've converted the scss file the code I wrote. **It's a great pleasure for me to
 The file serenix_scss_utils.html contains examples and actual cases already tested.
 Feel free to uncomment examples and test.
 
+## Issues
+
+Some aspects are not supported andwill be later.
+
+Please contact me and/or pull requests for issues you encounter and also some aspects/things you wan to be integrated.
+
+
 
