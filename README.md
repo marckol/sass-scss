@@ -18,9 +18,21 @@ Feel free to uncomment examples and test.
 
 ## Issues
 
-Some aspects are not supported andwill be later.
+Some aspects are not supported and will be later.
+
+Your contribution (test, coding, observations, ...) is important and will help to have a better and very stable version.
 
 Please contact me and/or pull requests for issues you encounter and also some aspects/things you wan to be integrated.
+
+Name: Marc KAMGA Olivier 
+emails: 
+
+  - kamga_marco@yahoo.com;
+  - mkamga.olivier@gmail.com
+
+Phone Number : +237 699 94 80 88
+
+
 
 
 
