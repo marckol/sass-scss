@@ -82,3 +82,9 @@ if (!Array.isArray) {
 };
 
 var isArray = Array.isArray;
+
+if (typeof Array.prototype.contains === 'undefined') {
+    Array.prototype.contains = function(e) {
+        return this.indexOf(e) >= 0;
+    };
+}
