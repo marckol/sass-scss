@@ -110,6 +110,12 @@ Array.prototype.indexOf||(Array.prototype.indexOf=function(value,startIndex) {
     return -1;
 });
 
+if (typeof Array.prototype.contains === 'undefined') {
+    Array.prototype.contains = function(e) {
+        return this.indexOf(e) >= 0;
+    };
+}
+
 /*! http://mths.be/fromcodepoint v0.1.0 by @mathias */
 if (!String.fromCodePoint) {
   (function() {
